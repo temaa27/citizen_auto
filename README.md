@@ -20,9 +20,9 @@
 
 
 ### Telegram Desktop on Windows and Linux
-- Download and launch the **[Beta Version](https://desktop.telegram.org/changelog#beta-version)** of Telegram Desktop on Windows or Linux (not supported on Telegram Desktop for macOS yet).
-- Go to Settings > Advanced > Experimental settings > Enable webview inspection.
-- Right click in the WebView and choose Inspect.
+- Скачай и запусти**[Beta Version](https://desktop.telegram.org/changelog#beta-version)** Telegram Desktop в Windows или Linux (not supported on Telegram Desktop for macOS yet).
+- Зайди в Настройки > Advanced > Experimental settings > Enable webview inspection.
+
 
 ## Запуск скрипта
 
