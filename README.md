@@ -23,6 +23,9 @@
 - Скачай и запусти **[Beta Version](https://desktop.telegram.org/changelog#beta-version)** Telegram Desktop в Windows или Linux (not supported on Telegram Desktop for macOS yet).
 - Зайди в Настройки > Advanced > Experimental settings > Enable webview inspection.
 
+![image psd](https://github.com/temaa27/citizen_auto/assets/168093792/f3f62859-b048-46ab-9609-6fe9fff98f6f)
+
+
 
 ## Запуск скрипта
 
