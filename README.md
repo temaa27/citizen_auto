@@ -6,7 +6,7 @@
   <h1 align="center">AutoBot для Catizen</h1>
   
   <p align="center">
-    <strong>This script unlocks the "Auto" mode button in the game without requiring the cost of 3900 $Fish.</strong>
+    <strong>Этот скрипт разблокирует кнопку "Auto" в игре без траты 3900 $Fish.</strong>
   </p>
  
 </div>
